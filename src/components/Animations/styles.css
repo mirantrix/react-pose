@@ -1,0 +1,66 @@
+
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    font-family: PT Sans, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+  
+a, h2, p, a {
+    padding: 0;
+    margin: 0;
+}
+
+.buttonContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    padding-right: 2rem;
+}
+
+.animationContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    width: 70%;
+    
+}
+
+
+.modal {
+    width: inherit;
+    
+    
+}
+
+
+.button{
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 15px;
+    outline:0;
+    background-color: aquamarine;
+    border: none;
+}
+
+
+h2{
+line-height: 1.5rem;
+}
+
+p{
+font-size: 14px;
+color: #222222;
+margin: 1rem 0;
+}
+
+a {
+font-size: 10px;
+color: #888888;
+}
+
+
+ 
